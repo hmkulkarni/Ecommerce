@@ -1,0 +1,34 @@
+.fname:after {
+    content: ' *';
+    color: red;
+}
+.lname:after {
+    content: ' *';
+    color: red;
+}
+.mail:after {
+    content: ' *';
+    color: red;
+}
+.pass:after {
+    content: ' *';
+    color: red;
+}
+.repass:after {
+    content: ' *';
+    color: red;
+}
+.contact:after {
+    content: ' *';
+    color: red;
+}
+.addr:after {
+    content: ' *';
+    color: red;
+}
+.reg {
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 1px 1px lightgrey;
+    border-radius: 5px;
+}
+

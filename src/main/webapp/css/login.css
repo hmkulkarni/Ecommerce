@@ -1,0 +1,8 @@
+.mail:after {
+    content: ' *';
+    color: red;
+}
+.pass:after {
+    content: ' *';
+    color: red;
+}

@@ -1,0 +1,40 @@
+.firstname:after {
+    content: ' *';
+    color: red;
+}
+.lastname:after {
+    content: ' *';
+    color: red;
+}
+.mail:after {
+    content: ' *';
+    color: red;
+}
+.pass:after {
+    content: ' *';
+    color: red;
+}
+.queries:after {
+    content: ' *';
+    color: red;
+}
+
+.info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name {
+    padding-top: 15px;
+}
+.contact-us {
+    border: 1px solid lightgrey;
+    box-shadow: 2px 2px 1px 1px lightgrey;
+    border-radius: 5px;
+}
+.buttons {
+    padding-bottom: 15px;
+}

@@ -1,0 +1,31 @@
+.firstname:after {
+    content: ' *';
+    color: red;
+}
+.lastname:after {
+    content: ' *';
+    color: red;
+}
+.mail:after {
+    content: ' *';
+    color: red;
+}
+.pass:after {
+    content: ' *';
+    color: red;
+}
+.queries:after {
+    content: ' *';
+    color: red;
+}
+
+.check-out {
+    box-shadow: 2px 2px 1px 1px lightgrey;
+    border-radius: 5px;
+}
+
+.show-cart {
+    box-shadow: 2px 2px 1px 1px lightgrey;
+    border-radius: 5px;
+}
+
