@@ -45,12 +45,9 @@
                     </div>
                 </div>
                 <div class="lst col-md-6">
-                    <h6>List of teammates</h6>
+                    <h6 style="padding-left: 4">Project made by:</h6>
                     <ul>
                         <li>Hrishikesh Kulkarni</li>
-                        <li>Aniket Mohanpuria</li>
-                        <li>Himanshu Rane</li>
-                        <li>Roopesh</li>
                     </ul>
                 </div>
             </div>
